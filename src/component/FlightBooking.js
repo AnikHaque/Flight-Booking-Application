@@ -22,7 +22,6 @@ const FlightBooking = () => {
       </header>
 
       <section>
-        {/* <!-- Preview Data --> */}
         <div className="table-container">
           <table className="booking-table">
             <thead className="bg-gray-100/50">
