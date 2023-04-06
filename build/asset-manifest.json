@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53fa68bf.css",
+    "main.js": "/static/js/main.f99fef17.js",
+    "static/js/787.2589662e.chunk.js": "/static/js/787.2589662e.chunk.js",
+    "static/media/Hero-Banner.webp": "/static/media/Hero-Banner.8af977725c86d704305f.webp",
+    "static/media/lws-logo.svg": "/static/media/lws-logo.dde858f500e1ca14c1b574022484cf01.svg",
+    "index.html": "/index.html",
+    "main.53fa68bf.css.map": "/static/css/main.53fa68bf.css.map",
+    "main.f99fef17.js.map": "/static/js/main.f99fef17.js.map",
+    "787.2589662e.chunk.js.map": "/static/js/787.2589662e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53fa68bf.css",
+    "static/js/main.f99fef17.js"
+  ]
+}
