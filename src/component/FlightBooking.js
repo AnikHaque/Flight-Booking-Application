@@ -8,7 +8,6 @@ const FlightBooking = () => {
   const dispatch = useDispatch();
   const deleteHandler = (id) => {
     dispatch(flightBookingDelete(id));
-    // console.log(id);
   };
   return (
     <div>
