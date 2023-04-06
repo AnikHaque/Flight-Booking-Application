@@ -22,7 +22,6 @@ const FlightBooking = () => {
       </header>
 
       <section>
-        {/* <FlightBookingInput /> */}
         {/* <!-- Preview Data --> */}
         <div className="table-container">
           <table className="booking-table">
