@@ -5,7 +5,6 @@ import { flightBookingDelete } from "../redux/flightBooking/actions";
 
 const FlightBooking = () => {
   const bData = useSelector((state) => state.bookingData);
-  // console.log("data", bData);
   const dispatch = useDispatch();
   const deleteHandler = (id) => {
     dispatch(flightBookingDelete(id));
