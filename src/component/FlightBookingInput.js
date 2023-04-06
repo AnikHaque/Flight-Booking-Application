@@ -15,7 +15,6 @@ const FlightBookingInput = () => {
     event.preventDefault();
     const id = Date.now();
     const bookingData = { id, destFrom, destTo, date, guests, fClass };
-    // console.log(bookingData);
     dispatch(flightBooking(bookingData));
     event.target.reset();
   };
