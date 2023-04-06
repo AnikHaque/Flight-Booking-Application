@@ -7,7 +7,6 @@ export const flightBooking = (bookingData) => {
   };
 };
 export const flightBookingDelete = (id) => {
-  // console.log(id);
   return {
     type: DELETEFLIGHTBOOKING,
     payload: id,
