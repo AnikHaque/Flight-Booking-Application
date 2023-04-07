@@ -146,7 +146,7 @@ const FlightBookingInput = () => {
                   d="M12 4.5v15m7.5-7.5h-15"
                 />
               </svg>
-              <span className="text-sm">Book</span>
+              <span className="text-sm">Book Now</span>
             </button>
           </form>
         </div>
